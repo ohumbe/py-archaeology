@@ -37,6 +37,7 @@ pyyaml = "*"
 docutils = "*"
 jmespath = "*"
 beautifulsoup4 = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.6"
